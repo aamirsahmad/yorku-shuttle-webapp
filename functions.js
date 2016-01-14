@@ -10,7 +10,7 @@ var time = (hours * 60) + minutes;
 
 // Static strings
 var numHrsRe = " hours and ";
-var numMinRe = " minutes remaining till the next bus leaves"; 
+var numMinRe = " minutes remaining untill the next bus leaves"; 
 
 
 // ------------------------------------------------------------------
