@@ -1,4 +1,5 @@
 # York Univeristy Shuttle Webapp
+## [bit.ly/yushuttle](http://bit.ly/yushuttle)
 JS based WebApp that shows YorkU Village Shuttle schedule and updates every 30 seconds
 
 **Disclaimer**: This is an unofficial app; use it on your own risk.
